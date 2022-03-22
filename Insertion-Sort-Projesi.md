@@ -16,7 +16,7 @@ PROJE 1
 
 n+(n-1)+(n-2)+…1  --> 1’den n’e kadar olan sayıların toplamı için n(n+1)/2 = n^2+n/2 formülünden Big-O notation’ı O(n^2)’dir. 
 
-# Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+## Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
  
 Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
