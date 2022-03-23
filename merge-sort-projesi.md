@@ -34,5 +34,7 @@ PROJE 2
 
 ### Big-O gösterimini yazınız. 
 
-```O(nlogn)
+```
+O(nlogn)
+
 ```
