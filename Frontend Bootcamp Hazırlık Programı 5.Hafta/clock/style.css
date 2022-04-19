@@ -1,0 +1,27 @@
+.main {
+    background-color: dimgray;
+    color: #e98208;
+    font-size: x-large;
+}
+
+.center {
+    text-align: center;
+}
+
+.clock {
+    font-family: 'Digital-7';
+    src: url(digital-7.ttf);
+    position: relative;
+    text-align: center;
+    width: 80px;
+    font-size: xx-large;
+    color: antiquewhite;
+}
+
+.day {
+    margin-top: 25px;
+    position: relative;
+    text-align: center;
+    font-size: 24px;
+    color: antiquewhite;
+}
